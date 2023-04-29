@@ -1,0 +1,10 @@
+{
+        "name": "imran-myapache",
+        "version": "0.0.1",
+        "author": "imran",
+        "summary": "this module installs apache",
+        "source": "https://github.com/",
+	"license": "gpl",
+	"dependencies": []
+}
+
